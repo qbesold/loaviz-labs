@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\labik3-task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5435E041-1DF6-48EA-9135-C362A6769B6F}|labik3-task\\labik3-task.vcxproj|C:\\labik3-task\\labik3-task\\labik3-task.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5435E041-1DF6-48EA-9135-C362A6769B6F}|labik3-task\\labik3-task.vcxproj|solutionrelative:labik3-task\\labik3-task.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "labik3-task.cpp",
+              "DocumentMoniker": "C:\\labik3-task\\labik3-task\\labik3-task.cpp",
+              "RelativeDocumentMoniker": "labik3-task\\labik3-task.cpp",
+              "ToolTip": "C:\\labik3-task\\labik3-task\\labik3-task.cpp",
+              "RelativeToolTip": "labik3-task\\labik3-task.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-22T18:37:00.561Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
