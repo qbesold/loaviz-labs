@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\2 \u043A\u0443\u0440\u0441\\\u041B\u041E\u0410\u0412\u0418\u0417\\labik6-task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{384EFB2E-0C6A-47FD-B420-593C9CE2366F}|labik6-task\\labik6-task.vcxproj|F:\\2 \u043A\u0443\u0440\u0441\\\u041B\u041E\u0410\u0412\u0418\u0417\\labik6-task\\labik6-task\\labik6-task.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{384EFB2E-0C6A-47FD-B420-593C9CE2366F}|labik6-task\\labik6-task.vcxproj|solutionrelative:labik6-task\\labik6-task.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "labik6-task.cpp",
+              "DocumentMoniker": "F:\\2 \u043A\u0443\u0440\u0441\\\u041B\u041E\u0410\u0412\u0418\u0417\\labik6-task\\labik6-task\\labik6-task.cpp",
+              "RelativeDocumentMoniker": "labik6-task\\labik6-task.cpp",
+              "ToolTip": "F:\\2 \u043A\u0443\u0440\u0441\\\u041B\u041E\u0410\u0412\u0418\u0417\\labik6-task\\labik6-task\\labik6-task.cpp",
+              "RelativeToolTip": "labik6-task\\labik6-task.cpp",
+              "ViewState": "AgIAADABAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-05T15:52:53.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
