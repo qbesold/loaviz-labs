@@ -1,0 +1,4 @@
+﻿  labik5-task.cpp
+E:\2 курс\ЛОАВИЗ\labik5-task\labik5-task\labik5-task.cpp(164,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  LINK : не найден или не выполнена сборка E:\2 курс\ЛОАВИЗ\labik5-task\Debug\labik5-task.exe при последней инкрементной компоновке; выполняется полная компоновка
+LINK : fatal error LNK1105: не удается закрыть файл "E:\2 курс\ЛОАВИЗ\labik5-task\Debug\labik5-task.exe"

@@ -1,3 +1,0 @@
-﻿  labik7.cpp
-C:\labik7\labik7\labik7.cpp(34,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  labik7.vcxproj -> C:\labik7\x64\Debug\labik7.exe
