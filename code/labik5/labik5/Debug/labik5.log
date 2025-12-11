@@ -1,0 +1,4 @@
+﻿  labik5.cpp
+E:\2 курс\ЛОАВИЗ\labik5\labik5\labik5.cpp(102,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\2 курс\ЛОАВИЗ\labik5\labik5\labik5.cpp(105,18): warning C4305: инициализация: усечение из "double" в "float"
+  labik5.vcxproj -> E:\2 курс\ЛОАВИЗ\labik5\Debug\labik5.exe
